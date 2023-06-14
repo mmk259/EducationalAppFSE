@@ -24,7 +24,7 @@ The SRS defines the scope of the Education App and outlines the requirements for
 *	Usability requirements such as intuitive navigation, accessibility, and responsiveness
 *	Compatibility requirements such as support for multiple devices and platforms
 The scope of the SRS is limited to defining the requirements for the Education App's development. The SRS does not cover the design, implementation, or testing of the app, nor does it cover any legal or regulatory requirements. The SRS is intended to serve as a reference document for developers, stakeholders, and quality assurance teams throughout the app's development lifecycle.
-•	Work Breakdown Structure:
+## Work Breakdown Structure:
 Here are the work breakdown structures for the Education App requirements:
 1. Virtual Lectures:
 *  Create virtual classroom atmosphere
@@ -59,17 +59,17 @@ Overall, the Education App is designed to provide a comprehensive and personaliz
 
 ![image](https://user-images.githubusercontent.com/108261815/236294712-df1259f4-34c9-4efe-bd1a-f3791318ee4b.png)
 
-•	Product Function:
-•	Virtual Lectures: The Education App will provide virtual classrooms atmosphere by allowing educators to add their YouTube videos in the classroom playlist.
-•	Study Materials: The Education App will facilitate learning experience for students by providing books, notes and slides.
-•	Quizzes and Assignments: The Education App will link interactive quizzes and assignments that students can complete online through the website. The app will provide immediate feedback on quiz scores and assignment submissions.
-•	Comprehensive Dashboard: The Education App will provide a comprehensive dashboard for students. The dashboard will include information such assignment deadlines, and quiz results.
-•	User Authentication and Authorization: The Education App will require user authentication and authorization to ensure that only authorized users have access to the app's features and data.
-•	Data Storage: The Education App will store assignments, quizzes, lectures and materials on a spreadsheet, allowing teachers to access spreadsheets to upload and delete content. Integrate the app with spreadsheets via API and Base Key for seamless data transfer.
-•	Integration with Third-Party Websites and Applications: Facilitate students’ access to YouTube for additional learning resources, allow teachers to link a trusted website for quizzes or other educational content. Enable seamless integration with other third party educational applications for a more comprehensive earning experience. 
-•	Student Process Tracking: Develop a feature that allows students to track their progress and performance. Display performance metrics such as grades, completion rates, and quiz scores in the notification bar. Provide personalized recommendations for improvement based on the student’s performance data.
+## Product Function:
+* Virtual Lectures: The Education App will provide virtual classrooms atmosphere by allowing educators to add their YouTube videos in the classroom playlist.
+* Study Materials: The Education App will facilitate learning experience for students by providing books, notes and slides.
+* Quizzes and Assignments: The Education App will link interactive quizzes and assignments that students can complete online through the website. The app will provide immediate feedback on quiz scores and assignment submissions.
+* Comprehensive Dashboard: The Education App will provide a comprehensive dashboard for students. The dashboard will include information such assignment deadlines, and quiz results.
+* User Authentication and Authorization: The Education App will require user authentication and authorization to ensure that only authorized users have access to the app's features and data.
+* Data Storage: The Education App will store assignments, quizzes, lectures and materials on a spreadsheet, allowing teachers to access spreadsheets to upload and delete content. Integrate the app with spreadsheets via API and Base Key for seamless data transfer.
+* Integration with Third-Party Websites and Applications: Facilitate students’ access to YouTube for additional learning resources, allow teachers to link a trusted website for quizzes or other educational content. Enable seamless integration with other third party educational applications for a more comprehensive earning experience. 
+* Student Process Tracking: Develop a feature that allows students to track their progress and performance. Display performance metrics such as grades, completion rates, and quiz scores in the notification bar. Provide personalized recommendations for improvement based on the student’s performance data.
 Overall, the Education App will provide a range of product functions that support virtual lectures, learning material, interactive quizzes and challenging assignments, comprehensive dashboards, user authentication and authorization, data storage, integration with other learning platforms, and secure storage and data encryption. These functions will enable a comprehensive and personalized online learning experience for both students and educators.
-•	User Characteristics:
+## User Characteristics:
 •	Students: The primary users of the Education App will be students of all ages and educational backgrounds. The app will be designed to provide a personalized learning experience that adapts to the individual needs of each student.
 •	Educators: Educators of all types, including teachers, professors, and trainers, will also use the Education App. The app will provide tools to create and conduct virtual classes, assign and grade quizzes and assignments, and monitor student performance.
 •	Administrators: Administrators will use the Education App to manage the platform and its users. This includes managing user accounts, setting up classes and assignments, and monitoring system performance and security.
@@ -121,11 +121,10 @@ Illustrate possible situations where the user interacts with the system
 ![image](https://user-images.githubusercontent.com/108261815/236295071-fab584b1-2cb7-4147-aefc-5cc947a412c5.png)
 
 ## Activity Diagram:
-
 ![image](https://user-images.githubusercontent.com/108261815/236295285-347fcc91-c441-4310-ad4d-fddc9d7943bd.png)
  
 ## Prototype:
-	   The prototype of the educational app with the mentioned features would include a virtual classroom module that allows educators to create and manage virtual classrooms. Within the virtual classroom, students can participate in real-time video conferencing with their teachers and peers, ask questions, and interact with each other.
+The prototype of the educational app with the mentioned features would include a virtual classroom module that allows educators to create and manage virtual classrooms. Within the virtual classroom, students can participate in real-time video conferencing with their teachers and peers, ask questions, and interact with each other.
 
 The personalized learning experience module would be integrated into the app's functionality, enabling the app to adapt to each student's learning style, pace, and comfort zone. This module would also provide recommendations and personalized feedback to students to ensure they are making progress and achieving their goals.
 
