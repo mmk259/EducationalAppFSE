@@ -26,11 +26,11 @@ The SRS defines the scope of the Education App and outlines the requirements for
 The scope of the SRS is limited to defining the requirements for the Education App's development. The SRS does not cover the design, implementation, or testing of the app, nor does it cover any legal or regulatory requirements. The SRS is intended to serve as a reference document for developers, stakeholders, and quality assurance teams throughout the app's development lifecycle.
 •	Work Breakdown Structure:
                Here are the work breakdown structures for the Education App requirements:
-1. Virtual Lectures
-                      Create virtual classroom atmosphere
-                      Allow students to access lectures uploaded by teachers on YouTube
+1. Virtual Lectures:
+*  Create virtual classroom atmosphere
+*  Allow students to access lectures uploaded by teachers on YouTube
            2. Interactive Quizzes and Assignments:
-                   Link interactive quizzes and challenging assignments feature for students
+                       Link interactive quizzes and challenging assignments feature for students
                       Students to be notified on feedback and scoring of Quizzes and Assignments
           3. Comprehensive Dashboard:
                        Create dashboard feature for students according to semester enrolment
