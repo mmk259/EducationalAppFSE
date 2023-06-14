@@ -6,11 +6,11 @@ Project RAMBA ACADEMY
 Our Education App is a modern, intuitive and feature-rich platform designed to provide an immersive and engaging learning experience for students and educators. With a wide range of functionalities such as virtual lectures, quizzes and assignments, along with study materials for student’s ease, the app aims to enhance the learning process in a meaningful and effective way.
 In today's digital age, the need for online learning solutions has never been greater. Our Education App is designed to meet this demand, providing users with a flexible and accessible way to learn and teach from anywhere in the world. The app is built on the Kodular platform, which is known for its simplicity and ease of use, making it an ideal choice for users who may not have technical expertise or programming skills.
 This Software Requirements Specification (SRS) outlines the functional and non-functional requirements for the development of our Education App. The SRS provides a clear and concise description of the app's features and functionality, as well as its performance, security, and usability requirements. With this SRS, we aim to provide a comprehensive guide for developers to ensure that the Education App is built to the highest standards and meets the needs of our users.
-•	Purpose:
+## Purpose:
 The purpose of the Software Requirements Specification (SRS) for the Education App is to provide a comprehensive, detailed, and unambiguous document that outlines the functional and non-functional requirements for the development of the app. The SRS serves as a critical reference document for developers, stakeholders, and quality assurance teams, ensuring that the app is built to the highest standards and meets the needs of its users.
 The SRS defines the scope of the Education App and outlines the requirements for its development. The SRS serves as a communication tool between stakeholders and developers, facilitating a shared understanding of the app's requirements and functionality. The SRS ensures that all stakeholders have a clear and concise understanding of the app's features and functionalities, as well as its performance, security, and usability requirements.
 The purpose of the SRS is to provide a comprehensive guide for developers to ensure that the Education App is built to provide a reliable, efficient, and user-friendly platform for online learning. The SRS defines the app's functional and non-functional requirements, ensuring that the app meets the needs of students and educators. By adhering to the SRS, developers can ensure that the Education App is built to the highest standards, meets the needs of its users, and provides a comprehensive and accessible learning solution.
-•	Scope:
+## Scope:
 The scope of the Software Requirements Specification (SRS) for the Education App is to define the functional and non-functional requirements for the development of a comprehensive, user-friendly platform for online learning. The Education App is designed to provide a wide range of educational functionalities virtual lectures, quizzes and assignments, along with study materials for student’s ease. The app is built on the Kodular platform, which is known for its simplicity and ease of use, making it accessible to users who may not have technical expertise or programming skills.
 The SRS defines the scope of the Education App and outlines the requirements for its development. The scope of the SRS includes the following:
 *	 Functional Requirements:
@@ -25,7 +25,7 @@ The SRS defines the scope of the Education App and outlines the requirements for
 *	Compatibility requirements such as support for multiple devices and platforms
 The scope of the SRS is limited to defining the requirements for the Education App's development. The SRS does not cover the design, implementation, or testing of the app, nor does it cover any legal or regulatory requirements. The SRS is intended to serve as a reference document for developers, stakeholders, and quality assurance teams throughout the app's development lifecycle.
 •	Work Breakdown Structure:
-               Here are the work breakdown structures for the Education App requirements:
+Here are the work breakdown structures for the Education App requirements:
 1. Virtual Lectures:
 *  Create virtual classroom atmosphere
 *  Allow students to access lectures uploaded by teachers on YouTube
@@ -49,9 +49,9 @@ The scope of the SRS is limited to defining the requirements for the Education A
 * Develop feature to allow students to track their progress
 * Enable viewing of performance metrics such as grades, completion rates, and quiz scores in the notification bar
 These work breakdown structures can help in planning and managing the development of the Education App by breaking down the requirements into smaller, more manageable tasks.
-* Overall Description:
+## Overall Description:
 The Education App is a mobile application that aims to provide students and educators with a comprehensive and personalized online learning experience. The app includes several key features, virtual lectures, quizzes and assignments, along with study materials for student’s ease.
-* Product Perspective:
+## Product Perspective:
 The Education App is intended to be used on mobile devices running the Android and iOS operating systems. The app is designed to take advantage of the features and capabilities of modern mobile devices, including touchscreens, and network connectivity. The app is also designed to integrate with other online learning websites and video playing apps.
 The Education App is designed to be scalable and adaptable, with the ability to support a large number of users and a variety of learning scenarios. The app is designed to be modular and extensible, with the ability to add new features and functionality as needed.
 The Education App is also designed with security and privacy in mind. The app uses user authentication, data encryption, and secure storage to ensure that user data is protected at all times. The app also adheres to all relevant security and privacy regulations, such as GDPR and HIPAA.
@@ -112,17 +112,19 @@ Overall, the Education App requirements have been proportioned into these catego
 •	Student Progress Tracking: The Education App must provide a feature that allows students to track their progress and view their performance metrics, such as grades, completion rates, and quiz scores.
 Overall, the Education App must meet these specific requirements to provide a seamless and effective learning experience for both students and educators. These requirements will be used as the basis for design, development, testing, and evaluation of the Education App.
       
-•	 Modeling Requirements:
-	This section provides use case and activity diagrams that address the specifications of the requirements.
-•	Use Case Diagram: Illustrate possible situations where the user interacts with the system
+## Modeling Requirements:
+This section provides use case and activity diagrams that address the specifications of the requirements.
+
+## Use Case Diagram: 
+Illustrate possible situations where the user interacts with the system
 
 ![image](https://user-images.githubusercontent.com/108261815/236295071-fab584b1-2cb7-4147-aefc-5cc947a412c5.png)
 
-*	Activity Diagram:
+## Activity Diagram:
 
 ![image](https://user-images.githubusercontent.com/108261815/236295285-347fcc91-c441-4310-ad4d-fddc9d7943bd.png)
  
-•	Prototype:
+## Prototype:
 	   The prototype of the educational app with the mentioned features would include a virtual classroom module that allows educators to create and manage virtual classrooms. Within the virtual classroom, students can participate in real-time video conferencing with their teachers and peers, ask questions, and interact with each other.
 
 The personalized learning experience module would be integrated into the app's functionality, enabling the app to adapt to each student's learning style, pace, and comfort zone. This module would also provide recommendations and personalized feedback to students to ensure they are making progress and achieving their goals.
@@ -133,7 +135,7 @@ The comprehensive dashboard module would provide both students and educators wit
 
 In summary, the prototype of the educational app with the mentioned features would provide an immersive, interactive, and personalized learning experience for students, while also providing educators with the tools they need to manage their classrooms, assess their students' progress, and provide targeted support where necessary.
 
-•	References:
-	Links:
+## References:
+Links:
 * https://youtube.com/playlist?list=PLGcIJAsbXmE4kA1VOraz1NHxK9AqJgf2r
 * https://youtu.be/uhmDkMUWuTM
