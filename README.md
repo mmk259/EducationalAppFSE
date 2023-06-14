@@ -2,7 +2,7 @@
 Software Requirements Specification (SRS) 
 Project RAMBA ACADEMY 
 
-•	 Introduction
+## Introduction
 Our Education App is a modern, intuitive and feature-rich platform designed to provide an immersive and engaging learning experience for students and educators. With a wide range of functionalities such as virtual lectures, quizzes and assignments, along with study materials for student’s ease, the app aims to enhance the learning process in a meaningful and effective way.
 In today's digital age, the need for online learning solutions has never been greater. Our Education App is designed to meet this demand, providing users with a flexible and accessible way to learn and teach from anywhere in the world. The app is built on the Kodular platform, which is known for its simplicity and ease of use, making it an ideal choice for users who may not have technical expertise or programming skills.
 This Software Requirements Specification (SRS) outlines the functional and non-functional requirements for the development of our Education App. The SRS provides a clear and concise description of the app's features and functionality, as well as its performance, security, and usability requirements. With this SRS, we aim to provide a comprehensive guide for developers to ensure that the Education App is built to the highest standards and meets the needs of our users.
