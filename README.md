@@ -13,16 +13,16 @@ The purpose of the SRS is to provide a comprehensive guide for developers to ens
 •	Scope:
 The scope of the Software Requirements Specification (SRS) for the Education App is to define the functional and non-functional requirements for the development of a comprehensive, user-friendly platform for online learning. The Education App is designed to provide a wide range of educational functionalities virtual lectures, quizzes and assignments, along with study materials for student’s ease. The app is built on the Kodular platform, which is known for its simplicity and ease of use, making it accessible to users who may not have technical expertise or programming skills.
 The SRS defines the scope of the Education App and outlines the requirements for its development. The scope of the SRS includes the following:
-•	 Functional Requirements:
-•	Virtual classrooms for lectures and discussions.
-•	Quizzes and assignments for effective assessment and feedback
-•	Study Materials to facilitate student’s learning experience
-•	Comprehensive dashboard students to track progress, assignments, and grades. 
-•	Non-Functional Requirements:
-•	Performance requirements such as speed, scalability, and reliability
-•	Security requirements such as user authentication, data encryption, and secure storage
-•	Usability requirements such as intuitive navigation, accessibility, and responsiveness
-•	Compatibility requirements such as support for multiple devices and platforms
+*	 Functional Requirements:
+*	Virtual classrooms for lectures and discussions.
+*	Quizzes and assignments for effective assessment and feedback
+*	Study Materials to facilitate student’s learning experience
+*	Comprehensive dashboard students to track progress, assignments, and grades. 
+*	Non-Functional Requirements:
+*	Performance requirements such as speed, scalability, and reliability
+*	Security requirements such as user authentication, data encryption, and secure storage
+*	Usability requirements such as intuitive navigation, accessibility, and responsiveness
+*	Compatibility requirements such as support for multiple devices and platforms
 The scope of the SRS is limited to defining the requirements for the Education App's development. The SRS does not cover the design, implementation, or testing of the app, nor does it cover any legal or regulatory requirements. The SRS is intended to serve as a reference document for developers, stakeholders, and quality assurance teams throughout the app's development lifecycle.
 •	Work Breakdown Structure:
                Here are the work breakdown structures for the Education App requirements:
