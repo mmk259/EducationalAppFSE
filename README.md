@@ -30,28 +30,28 @@ The scope of the SRS is limited to defining the requirements for the Education A
 *  Create virtual classroom atmosphere
 *  Allow students to access lectures uploaded by teachers on YouTube
 2. Interactive Quizzes and Assignments:
-*                       Link interactive quizzes and challenging assignments feature for students
-*                      Students to be notified on feedback and scoring of Quizzes and Assignments
-          3. Comprehensive Dashboard:
-                       Create dashboard feature for students according to semester enrolment
-                       Include lectures, assignment deadlines, grades, and progress reports
-          4. User Authentication and Authorization:
-                    Develop secure user authentication and authorization system
-                       Require users to create a unique username and password to access the app    
-         5.  Data Storage:
-                    Store assignments, quizzes, lectures and materials on a spreadsheet
-                       Teachers can access spreadsheets to upload and delete
-                        App and spreadsheet integrated via API and Base Key.
-        6. Integration with Third-Party Websites and Applications:
-                  Facilitate students access to YouTube
-                     Teachers to link a trusted website for quizzes
-        7. Student Progress Tracking:
-                    Develop feature to allow students to track their progress
-                    Enable viewing of performance metrics such as grades, completion rates,	  	       and quiz scores in the notification bar
+* Link interactive quizzes and challenging assignments feature for students
+* Students to be notified on feedback and scoring of Quizzes and Assignments
+3. Comprehensive Dashboard:
+* Create dashboard feature for students according to semester enrolment
+* Include lectures, assignment deadlines, grades, and progress reports
+4. User Authentication and Authorization:
+* Develop secure user authentication and authorization system
+* Require users to create a unique username and password to access the app    
+5. Data Storage:
+* Store assignments, quizzes, lectures and materials on a spreadsheet
+* Teachers can access spreadsheets to upload and delete
+* App and spreadsheet integrated via API and Base Key.
+6. Integration with Third-Party Websites and Applications:
+* Facilitate students access to YouTube
+* Teachers to link a trusted website for quizzes
+7. Student Progress Tracking:
+* Develop feature to allow students to track their progress
+* Enable viewing of performance metrics such as grades, completion rates, and quiz scores in the notification bar
 These work breakdown structures can help in planning and managing the development of the Education App by breaking down the requirements into smaller, more manageable tasks.
-•	Overall Description:
+* Overall Description:
 The Education App is a mobile application that aims to provide students and educators with a comprehensive and personalized online learning experience. The app includes several key features, virtual lectures, quizzes and assignments, along with study materials for student’s ease.
-•	Product Perspective:
+* Product Perspective:
 The Education App is intended to be used on mobile devices running the Android and iOS operating systems. The app is designed to take advantage of the features and capabilities of modern mobile devices, including touchscreens, and network connectivity. The app is also designed to integrate with other online learning websites and video playing apps.
 The Education App is designed to be scalable and adaptable, with the ability to support a large number of users and a variety of learning scenarios. The app is designed to be modular and extensible, with the ability to add new features and functionality as needed.
 The Education App is also designed with security and privacy in mind. The app uses user authentication, data encryption, and secure storage to ensure that user data is protected at all times. The app also adheres to all relevant security and privacy regulations, such as GDPR and HIPAA.
