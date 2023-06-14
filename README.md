@@ -29,9 +29,9 @@ The scope of the SRS is limited to defining the requirements for the Education A
 1. Virtual Lectures:
 *  Create virtual classroom atmosphere
 *  Allow students to access lectures uploaded by teachers on YouTube
-*   2. Interactive Quizzes and Assignments:
-                       Link interactive quizzes and challenging assignments feature for students
-                      Students to be notified on feedback and scoring of Quizzes and Assignments
+2. Interactive Quizzes and Assignments:
+*                       Link interactive quizzes and challenging assignments feature for students
+*                      Students to be notified on feedback and scoring of Quizzes and Assignments
           3. Comprehensive Dashboard:
                        Create dashboard feature for students according to semester enrolment
                        Include lectures, assignment deadlines, grades, and progress reports
