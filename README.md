@@ -135,5 +135,5 @@ In summary, the prototype of the educational app with the mentioned features wou
 
 •	References:
 	Links:
-	# https://youtube.com/playlist?list=PLGcIJAsbXmE4kA1VOraz1NHxK9AqJgf2r
-	# https://youtu.be/uhmDkMUWuTM
+* https://youtube.com/playlist?list=PLGcIJAsbXmE4kA1VOraz1NHxK9AqJgf2r
+* https://youtu.be/uhmDkMUWuTM
